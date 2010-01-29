@@ -1,0 +1,21 @@
+# Logfile created on Fri Jan 29 19:12:10 +0200 2010 by /
+[01/29/10 19:12:10 +0200 destiny (2287)] INFO : Web container: mongrel
+[01/29/10 19:12:10 +0200 destiny (2287)] INFO : Transaction tracing threshold is 2.0 seconds.
+[01/29/10 19:12:10 +0200 destiny (2287)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 2287
+[01/29/10 19:12:10 +0200 destiny (2287)] INFO : Agent Log found in /Users/seb/tmp/tmp/test_newrelic/log/newrelic_agent.log
+[01/29/10 19:15:48 +0200 destiny (2371)] INFO : Web container: mongrel
+[01/29/10 19:15:48 +0200 destiny (2371)] INFO : Transaction tracing threshold is 2.0 seconds.
+[01/29/10 19:15:48 +0200 destiny (2371)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 2371
+[01/29/10 19:15:48 +0200 destiny (2371)] INFO : Agent Log found in /Users/seb/tmp/tmp/test_newrelic/log/newrelic_agent.log
+[01/29/10 19:22:34 +0200 destiny (2592)] INFO : Web container: mongrel
+[01/29/10 19:22:34 +0200 destiny (2592)] INFO : Transaction tracing threshold is 2.0 seconds.
+[01/29/10 19:22:34 +0200 destiny (2592)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 2592
+[01/29/10 19:22:34 +0200 destiny (2592)] INFO : Agent Log found in /Users/seb/tmp/tmp/test_newrelic/log/newrelic_agent.log
+[01/29/10 19:23:35 +0200 destiny (2612)] INFO : Web container: mongrel
+[01/29/10 19:23:35 +0200 destiny (2612)] INFO : Transaction tracing threshold is 2.0 seconds.
+[01/29/10 19:23:35 +0200 destiny (2612)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 2612
+[01/29/10 19:23:35 +0200 destiny (2612)] INFO : Agent Log found in /Users/seb/tmp/tmp/test_newrelic/log/newrelic_agent.log
+[01/29/10 19:27:25 +0200 destiny (2647)] INFO : Web container: mongrel
+[01/29/10 19:27:25 +0200 destiny (2647)] INFO : Transaction tracing threshold is 2.0 seconds.
+[01/29/10 19:27:25 +0200 destiny (2647)] INFO : New Relic RPM Agent 2.9.9 Initialized: pid = 2647
+[01/29/10 19:27:25 +0200 destiny (2647)] INFO : Agent Log found in /Users/seb/tmp/tmp/test_newrelic/log/newrelic_agent.log

@@ -1,0 +1,27 @@
+== Minimal app to show Synchronizer Model conflict with New Relic RPM 2.9.9
+
+= Get the app working as expected
+
+To test the app, simply clone this rep then ./script/server
+
+Go to `http://127.0.0.1:3000` , the app should show a list of 3 synchronizers :
+
+    * Synchronizer 1
+    * Synchronizer 2
+    * Synchronizer 3
+
+
+= Activate New Relic RPM 2.9.9
+
+Just uncomment the gem loading within config/environment.rb (right now the gem is unpacked)
+
+Relaunch the server and KaBoom !
+
+    NoMethodError in SynchronizersController#index
+    undefined method `all' for Sync:Class
+    ...
+
+
+Let me know if you need any help to investigate this issue.
+
+= Demo provided by Sébastien Grosjean - ZenCocoon
